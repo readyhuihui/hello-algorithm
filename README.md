@@ -22,12 +22,12 @@ English version repo and Gitbook is on [english branch](https://github.com/geekx
 
 ### 本项目包括
 
-| 👀：[小浩算法图解题典](https://www.geekxh.com/0.0.%E5%AD%A6%E4%B9%A0%E9%A1%BB%E7%9F%A5/03.html?3pVd) |  |  |  |  
-| :---: | :---- | :--- | :--- |
-| 🚀：[大厂面经汇总指南](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87) | [java](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/Java) | [python](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/Python) | [前端](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/%E5%89%8D%E7%AB%AF) |
-| 🐒：[超清思维导图集锦](https://github.com/geekxh/hello-algorithm/tree/master/%E8%B6%85%E6%B8%85%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE100%E5%BC%A0) |  |  |  |
-| 📚：[超清电子书一千本](https://github.com/geekxh/hello-algorithm/tree/master/%E6%B8%85%E6%99%B0%E7%89%88%E7%94%B5%E5%AD%90%E4%B9%A61000%E6%9C%AC) |  |  |  |
-| 💯：[专栏：剑指offer](https://github.com/geekxh/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/%E5%89%91%E6%8C%87offer)|  |  |  |
+| 👀 [小浩算法图解题典](https://www.geekxh.com/0.0.%E5%AD%A6%E4%B9%A0%E9%A1%BB%E7%9F%A5/03.html?3pVd) | 🐒 [超清思维导图集锦](https://github.com/geekxh/hello-algorithm/tree/master/%E8%B6%85%E6%B8%85%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE100%E5%BC%A0) | 📚 [超清电子书一千本](https://github.com/geekxh/hello-algorithm/tree/master/%E6%B8%85%E6%99%B0%E7%89%88%E7%94%B5%E5%AD%90%E4%B9%A61000%E6%9C%AC) | 🚀 [大厂面经汇总指南](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87) |  
+| :--- | :---- | :--- | :--- |
+| 🍇 [面试：Java](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/Java) | 🍉 [面试：Python](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/Python) | 🍅 [面试：前端](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/%E5%89%8D%E7%AB%AF) | 🍄 [面试：Mysql](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/Mysql) |
+| 🍖 [面试：架构师](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/%E6%9E%B6%E6%9E%84%E5%B8%88) | 🌽 [面试：C](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/C%26C%2B%2B) | 🍏 [面试：C++](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/C%26C%2B%2B) | 🍐 [面试：机器学习]() |
+| 👺 [专栏：学习os](https://github.com/geekxh/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)| 📺 [专栏：学习linux](https://github.com/geekxh/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/Linux) | 🎅 [专栏：学习mysql](https://github.com/geekxh/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/Mysql) | 📡 [专栏：学习网络](https://github.com/geekxh/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C) |
+| 🆎 [专栏：学习设计模式](https://github.com/geekxh/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)| 📝 [专栏：学习剑指offer](https://github.com/geekxh/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/%E5%89%91%E6%8C%87offer) |  |  |
 
 
 ### 使用指南
@@ -67,11 +67,11 @@ English version repo and Gitbook is on [english branch](https://github.com/geekx
 <b>另外，我这里再推荐几本算法书籍，大家可以尝试学习</b>
 
 | 书籍名 | 介绍 |
-|---|---|
-| 《算法4》 | 主要是基础知识，对排序，查找，图，字符串讲解的图非常经典。适合初学者。 |
-| 《剑指offer》 | 在有一定刷题经验后进行自我学习。初学者可以先看看上面的视频，掌握常见题目思路后再进行学习。 |
-| 《算法导论》 | 很有名很经典，但更多被用来当作资料查阅，不建议初学者通读。 |
-| 《算法引论》 | 从设计算法的角度思考问题，难度颇大，不适合初学者。 |
+|------|------|
+| 算法4 | 主要是基础知识，对排序，查找，图，字符串讲解的图非常经典。适合初学者。 |
+| 剑指offer | 在有一定刷题经验后进行自我学习。初学者可以先看看上面的视频，掌握常见题目思路后再进行学习。 |
+| 算法导论 | 很有名很经典，但更多被用来当作资料查阅，不建议初学者通读。 |
+| 算法引论 | 从设计算法的角度思考问题，难度颇大，不适合初学者。 |
 
 ### 内容展示
 
@@ -273,3 +273,7 @@ English version repo and Gitbook is on [english branch](https://github.com/geekx
 | 63、左旋转字符串 | [Left Rotate String](./专栏/剑指offer/58_02_LeftRotateString) |
 | 64、滑动窗口的最大值 | [Max In Sliding Window](./专栏/剑指offer/59_01_MaxInSlidingWindow) |
 | 65、扑克牌的顺子 | [Continous Cards](./专栏/剑指offer/61_ContinousCards) |
+
+### License
+
+本项目除部分引用开源技术文档的内容外，大部分为本人原创！欢迎任何以学习为目的的传播，但未授权任何平台进行转载！
